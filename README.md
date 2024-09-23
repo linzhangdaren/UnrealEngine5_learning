@@ -30,6 +30,7 @@
 - [或者国外二](https://www.bilibili.com/video/BV1sh4ResEzY?p)
 
 ### 
+## 每科目自推荐了一套 有更好的课程了我再实时更新
 ## [脑图链接:](https://gitmind.cn/app/docs/m6fealpc)
 ![虚幻引擎 5（UE5）学习之路](https://github.com/user-attachments/assets/4118327e-3e1f-4ef3-be7e-4641c7a200d5)
 
