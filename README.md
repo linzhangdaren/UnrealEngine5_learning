@@ -25,9 +25,8 @@
 - B 站上讲C语言比较好的有王铭东，搭配黑马这两套相信入门不是问题。
 - [C语言 零基础 快速上手](https://www.bilibili.com/video/BV12L411v7Q5)
 - 建议用C++代码的方式跟着敲 这样学完C基础能很好的衔接C++
-- 接着就可以看 UE C++国外搬运的那两套了。
+- 接着就可以看 UE C++国外搬运的那套了。
 - [国外一](https://www.bilibili.com/video/BV1be41137Kp)
-- [或者国外二](https://www.bilibili.com/video/BV1sh4ResEzY?p)
 
 ### 
 
