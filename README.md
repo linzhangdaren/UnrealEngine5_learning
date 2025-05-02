@@ -9,14 +9,13 @@
 ## 学习内容概览
 ### 1. 基础操作
 大致介绍虚幻引擎5的基本操作与界面，并不深刻适合简单了解。
-- 
-- [快速基础操作](https://www.bilibili.com/video/BV182421K7Qu?)
-- [蓝图接口的详细讲解](https://space.bilibili.com/476069765/lists/230134?type=season)
+- [快速基础操作](https://space.bilibili.com/476069765/lists/230134?type=season)
 
 ### 2. 蓝图入门
 - 无编程经验也可以快速做出各种行为逻辑。
 - 如果记不住也搞不懂为什么，最好先了解一下 C++基础。
-- [蓝图的原理逻辑](https://space.bilibili.com/67108639)
+- [蓝图入门](https://www.bilibili.com/video/BV182421K7Qu?)
+- [蓝图接口的详细补充说明](https://space.bilibili.com/67108639)
 
 ### 3. 材质
 - 真心推荐看一下 Ben Cloward 大佬的教程，材质&英语双修。
